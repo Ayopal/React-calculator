@@ -78,7 +78,7 @@ function App() {
 						<button className='circle other' onClick={handleClick} value='9'>
 							9
 						</button>
-						<button className='circle last' onClick={handleClick} value='×'>
+						<button className='circle last' onClick={handleClick} value='*'>
 							x
 						</button>
 
